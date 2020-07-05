@@ -2210,8 +2210,8 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-s3Em71w2UF {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 75px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/group-2-2000x1330.jpg");
 }
 .cid-s3Em71w2UF .card-box {
@@ -2275,6 +2275,11 @@ section.lazy-placeholder:after {
 .cid-s3Em71w2UF .mbr-section-btn {
   color: #000000;
 }
+.cid-s3OUIshpxn {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
 .cid-s3EplEoo2V {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -2325,7 +2330,7 @@ section.lazy-placeholder:after {
 .cid-s3EplEoo2V img {
   width: 48%;
   border-radius: 10px;
-  box-shadow: 0 10px 55px 5px rgba(118, 217, 211, 0.35);
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
 @media (max-width: 992px) {
   .cid-s3EplEoo2V .img-box {
@@ -2399,7 +2404,7 @@ section.lazy-placeholder:after {
 .cid-s3FfmWhnxW {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #e4e4e4;
+  background-color: #f4f8fa;
 }
 .cid-s3FfmWhnxW .mbr-text {
   color: #000000;
@@ -2455,7 +2460,7 @@ section.lazy-placeholder:after {
 .cid-s3Fh6B7zYR {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #e4e4e4;
+  background-color: #f4f8fa;
 }
 .cid-s3Fh6B7zYR .mbr-text {
   color: #767676;
@@ -2511,7 +2516,7 @@ section.lazy-placeholder:after {
 .cid-s3Fh7gBdJr {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #e4e4e4;
+  background-color: #f4f8fa;
 }
 .cid-s3Fh7gBdJr .mbr-text {
   color: #767676;
@@ -2567,7 +2572,7 @@ section.lazy-placeholder:after {
 .cid-s3Fpfa2YDp {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #e4e4e4;
+  background-color: #f4f8fa;
 }
 .cid-s3Fpfa2YDp .mbr-text {
   color: #767676;
@@ -2623,7 +2628,7 @@ section.lazy-placeholder:after {
 .cid-s3Lj0skET9 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #e4e4e4;
+  background-color: #f4f8fa;
 }
 .cid-s3Lj0skET9 .socicon-bg-facebook {
   background: #3e5b98;
