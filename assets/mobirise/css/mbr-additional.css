@@ -6028,6 +6028,14 @@ body {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/adobestock-39640653-2000x1247.jpg");
 }
+.cid-s3KdozJS4m section,
+.cid-s3KdozJS4m .container,
+.cid-s3KdozJS4m .container-fluid {
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background-color: rgba(0, 0, 0, 0.6);
+}
 .cid-s3KdozJS4m .mbr-section-subtitle {
   color: #767676;
   text-align: center;
